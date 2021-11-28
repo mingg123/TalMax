@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class 이중순위큐 {
     public int[] solution(String[] operations) {
         int[] answer = { 0, 0 };
         PriorityQueue<Integer> q = new PriorityQueue<>();
