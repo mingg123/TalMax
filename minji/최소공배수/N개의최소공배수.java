@@ -1,4 +1,4 @@
-package 최소공배수;
+package minji.최소공배수;
 
 import java.util.*;
 

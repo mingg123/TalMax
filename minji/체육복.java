@@ -1,3 +1,5 @@
+package minji;
+
 import java.util.*;
 
 class 체육복 {

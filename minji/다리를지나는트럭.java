@@ -1,3 +1,5 @@
+package minji;
+
 import java.util.*;
 
 class 다리를지나는트럭 {

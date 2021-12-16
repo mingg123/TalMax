@@ -1,4 +1,4 @@
-package 완전탐색;
+package minji.완전탐색;
 
 import java.util.*;
 

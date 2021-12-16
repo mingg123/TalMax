@@ -1,4 +1,4 @@
-package DFS;
+package minji.DFS;
 
 import java.util.*;
 

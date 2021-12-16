@@ -1,4 +1,4 @@
-package BFS;
+package minji.BFS;
 
 import java.util.*;
 

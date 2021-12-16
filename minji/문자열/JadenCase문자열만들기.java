@@ -1,4 +1,4 @@
-package 문자열;
+package minji.문자열;
 
 import java.util.*;
 

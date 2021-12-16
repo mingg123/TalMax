@@ -1,3 +1,5 @@
+package minji;
+
 import java.util.*;
 
 class 전화번호목록 {
