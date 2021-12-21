@@ -1,4 +1,4 @@
-package 행렬;
+package minji.행렬;
 
 import java.util.*;
 
