@@ -11,7 +11,7 @@ public class 오등큰수 {
         int[] temp = new int[N];
         HashMap<Integer, Integer> map = new HashMap<>();
         Stack<Integer> st = new Stack<>();
-        int[] count = new int[N + 1];
+        int[] count = new int[1000001];
         for (int i = 0; i < N; i++) {
             temp[i] = sc.nextInt();
             count[temp[i]]++;
