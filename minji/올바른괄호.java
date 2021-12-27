@@ -1,3 +1,4 @@
+package minji;
 import java.util.*;
 
 class 올바른괄호 {

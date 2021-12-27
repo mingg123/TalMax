@@ -1,7 +1,9 @@
+package minji.스택;
+
 import java.util.*;
 import java.util.Scanner;
 
-public class Main {
+public class 단어뒤집기2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String input = in.nextLine();
@@ -26,9 +28,6 @@ public class Main {
             }
             if(isrever && input.charAt(i)!= '>' && input.charAt(i) != ' ') {
                 st.add(Character.toString(input.charAt(i)));
-                // while(!st.isEmpty()) {
-                //     list.add(st.pop());
-                // }
                
             } 
             else if(!isrever && input.charAt(i) != ' ') {

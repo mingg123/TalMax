@@ -1,4 +1,4 @@
-package 플로이드;
+package minji.플로이드;
 
 import java.util.*;
 
