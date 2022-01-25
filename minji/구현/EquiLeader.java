@@ -1,7 +1,7 @@
 package minji.구현;
 import java.util.*;
 
-
+//정확도는 100인데 효율성은 0임
 class EquiLeader {
     public static HashMap<Integer, Integer> left;
     public static HashMap<Integer, Integer> right;
