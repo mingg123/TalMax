@@ -1,3 +1,4 @@
+//JS로 스택 구현
 class Stack {
   constructor() {
     this.arr = [];
